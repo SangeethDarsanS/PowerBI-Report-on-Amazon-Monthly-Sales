@@ -58,7 +58,7 @@ This Power BI dashboard helps Amazon's sales and operations teams gain critical 
 | List            | Top 3 Performing/Underperforming Products |
 
 
-![Image](https://github.com/user-attachments/assets/a85b674a-10c5-4661-927c-1a82db96c34d)
+![Image](https://github.com/user-attachments/assets/f9ff2b9b-0ef1-4e38-bcac-06a77caa6b3f)
 
 ---
 
